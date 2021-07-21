@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Павел Волдаев](https://up.htmlacademy.ru/adaptive/23/user/1750369).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Пудов](https://htmlacademy.ru/profile/kamelot43).
 
 ---
 
