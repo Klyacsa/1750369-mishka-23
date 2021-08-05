@@ -1,0 +1,50 @@
+.button {
+  display: block;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #444444;
+  padding: 14px 10px;
+  border: 2px solid #444444;
+  background-color: inherit;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #444444;
+    color: #ffffff;
+  }
+
+  &:active {
+    background-color: #444444;
+    opacity: 0.3;
+  }
+
+  &--size {
+    padding: 16px 33px;
+    border: 2px solid rgba(68, 68, 68, 0.1);
+
+    &:hover {
+      border-color: rgba(68, 68, 68, 0.3);
+      background-color: #ffffff;
+      color: #444444;
+      opacity: 1;
+    }
+
+    &:active {
+      border-color: rgba(98, 209, 186, 1);
+      background-color: #ffffff;
+      color: #444444;
+      opacity: 1;
+    }
+  }
+
+  &--modal {
+    color: #ffffff;
+    background-color: #63d1bb;
+    margin: 25px 0 46px;
+    width: 260px;
+    border: none;
+  }
+}
